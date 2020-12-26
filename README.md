@@ -66,3 +66,13 @@
 
 * **[학습된 생성자(Generator) 모델 다운로드 (212MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EQPOZG2WXrlHirX5l8SHM9MBVcE0pLoIAdYwd3-hWXm73Q)**
 * **[학습된 판별자(Discriminator) 모델 다운로드 (10MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EYlJJGhQ5OFKp14jS_zGy8kBekJSkIe3ioN8LFIk59oa6A)**
+
+#### [Pix2Pix for Colorization](Pix2Pix_for_Colorization.ipynb)
+
+* 학습용 데이터셋: <b>Landscape Colorization</b>
+* <b>Image to Image Translation</b> 예시
+
+<img src="https://user-images.githubusercontent.com/16822641/103152944-2685ba80-47d0-11eb-8259-5e816dccfc18.png" width="100%%">
+
+* **[학습된 생성자(Generator) 모델 다운로드 (163MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EUy5gLVjz7dPq9GuTD8YL74BK5hPq5Gujb2M5XINR5v0Lg)**
+* **[학습된 판별자(Discriminator) 모델 다운로드 (10MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EX6UNA7hk2ROgjx34l1D_u4BiNvRSCWZMbJwbUfc1DW0AA)**
