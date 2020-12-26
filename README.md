@@ -1,4 +1,4 @@
-### PyTorch Neural Image Caption Generator
+### PyTorch Image to Image Translation
 
 * 작성자: 나동빈(Dongbin Na / dongbinna@postech.ac.kr)
 * 본 코드는 POSTECH의 **CSED703G 수업** 과제로 작성한 코드입니다.
