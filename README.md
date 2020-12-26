@@ -72,7 +72,7 @@
 * 학습용 데이터셋: <b>Landscape Colorization</b>
 * <b>Image to Image Translation</b> 예시
 
-<img src="https://user-images.githubusercontent.com/16822641/103152944-2685ba80-47d0-11eb-8259-5e816dccfc18.png" width="100%%">
+<img src="https://user-images.githubusercontent.com/16822641/103152944-2685ba80-47d0-11eb-8259-5e816dccfc18.png" width="80%">
 
 * **[학습된 생성자(Generator) 모델 다운로드 (163MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EUy5gLVjz7dPq9GuTD8YL74BK5hPq5Gujb2M5XINR5v0Lg)**
 * **[학습된 판별자(Discriminator) 모델 다운로드 (10MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EX6UNA7hk2ROgjx34l1D_u4BiNvRSCWZMbJwbUfc1DW0AA)**
