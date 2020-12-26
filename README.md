@@ -104,7 +104,7 @@
 * **[Epoch 30/200까지 학습된 판별자(Discriminator) A 모델 다운로드 (10MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/Ee2nFja4w3NHluFU1n43Z6oBpIM4sFX0GsgpoZdBpxGS7A)**
 * **[Epoch 30/200까지 학습된 판별자(Discriminator) B 모델 다운로드 (10MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/EUgH2KGMRUZNsPYKrTGkC2wBUVN1ksNuvYKheYE37PAQIA)**
 
-#### [Pix2Pix for Colorization](CycleGAN_for_Colorization_Translation.ipynb)
+#### [CycleGAN for Colorization](CycleGAN_for_Colorization_Translation.ipynb)
 
 * 학습용 데이터셋: <b>Landscape Colorization</b>
 * <b>Image to Image Translation</b> 예시 (Epoch 30/200까지 학습되었을 때)
