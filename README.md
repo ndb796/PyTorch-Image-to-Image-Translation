@@ -12,7 +12,7 @@
 * 데이터셋의 크기가 작으며 개수가 충분한 경우에는 오히려 <b>단순한 Upsampling이 좋은 성능</b>을 낼 수 있었습니다.
     * 원본 논문의 Transposed Convolution을 이용하는 것보다 모델 용량 대비 효과적이었습니다.
 
-#### [Upsampling DCGAN for Face Mask](Upsampling_DCGAN_for_Face_Mask_.ipynb)
+#### [Upsampling DCGAN for Face Mask](Upsampling_DCGAN_for_Face_Mask_(Grayscale).ipynb)
 
 * 학습용 데이터셋: 커스텀 <b>Face Mask (Grayscale)</b>
 * <b>얼굴(Face) 이미지 생성</b> 예시
@@ -30,7 +30,7 @@
 * **[학습된 생성자(Generator) 모델 다운로드 (18MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/Eb6v0gHgcg1HitX2lqLzkbUB6hr9RZ0LfDjfFaSXrcSgLQ)**
 * **[학습된 판별자(Discriminator) 모델 다운로드 (6MB)](https://postechackr-my.sharepoint.com/:u:/g/personal/dongbinna_postech_ac_kr/ERAThboZ0c1Lh1RGQGxrkToB6PxE18nBQA5XR0Zj-oj4kQ)**
 
-#### [Transposed DCGAN for Face Mask](Transposed_DCGAN_for_Face_Mask_.ipynb)
+#### [Transposed DCGAN for Face Mask](Transposed_DCGAN_for_Face_Mask_(Grayscale).ipynb)
 
 * 학습용 데이터셋: 커스텀 <b>Face Mask (Grayscale)</b>
 * <b>얼굴(Face) 이미지 생성</b> 예시
