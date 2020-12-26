@@ -52,6 +52,10 @@
 
 * Pix2Pix 학습/평가 전체 소스코드는 Google Colab을 이용해 실행할 수 있도록 작성했습니다.
 * 성능 향상을 위하여 광범위한 실험을 진행했습니다.
+* L1 손실(loss)을 사용했을 때가 조금 더 성능이 좋습니다.
+    * 페어링 된(paired) 정답 데이터의 방향을 알려주는 L1 손실이 추가된다는 점에서 CycleGAN보다 성능이 좋습니다.
+* 생성자(generator)는 U-Net 구조를 활용하여 이미지의 크기에 맞게 깊은 레이어를 유지하도록 합니다.
+* 커스텀 데이터셋으로는 <b>색상 입히기(colorization) 데이터셋</b>을 수집하여 활용하였습니다.
 
 #### [Pix2Pix for Facades](Pix2Pix_for_Facades.ipynb)
 
